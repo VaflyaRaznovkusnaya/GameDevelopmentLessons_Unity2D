@@ -4,7 +4,10 @@ This project was made for my University class "Basics of game development".
 I used some free assets (such as milk or butterfly in jar), and some royalty-free music.
 All other assets was made by myself in paint. Hopefully, they aren't a sore to an eye.
 
-You can play using WASD, and entaract by E. By Q you can peek through doors.
+You can play using WASD
+and entaract or pick up items by E
+By Q you can peek through doors or put down an item
+
 You need to exit the house from a specific door (you start near that door). To open the door you need to enter a password.
 There are three ways to obtain password: using a brute force, opening a special storage location (and messing with it) or completing butterfly puzzle (tough it would be in Russian language).
 
