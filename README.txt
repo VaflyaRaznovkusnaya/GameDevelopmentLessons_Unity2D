@@ -9,5 +9,5 @@ You need to exit the house from a specific door (you start near that door). To o
 There are three ways to obtain password: using a brute force, opening a special storage location (and messing with it) or completing butterfly puzzle (tough it would be in Russian language).
 
 In folder "Game build" you can find game's last build that you can play
-In folder "raw code" you can find my scripts and assets that I used in Unity engine
+In folder "Raw code" you can find my scripts and assets that I used in Unity engine
 Have fun!
